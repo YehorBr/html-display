@@ -1,0 +1,21 @@
+/* .container{
+    margin-right: auto;
+    margin-left: auto;
+    border: solid 2px purple;
+    
+} */
+.list :nth-child(2n){
+    background-color: red;
+    width: 500px;
+    
+}
+.list{
+    list-style: none;
+    margin-right: auto;
+    margin-left: auto;
+}
+li{
+    border: dashed 3px purple;
+    margin: 30px;
+    padding: 20px;
+}
